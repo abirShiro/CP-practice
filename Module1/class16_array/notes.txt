@@ -1,0 +1,7 @@
+data type(int) , name(arr), size[3]
+
+int arr[3] meaning indexing from 0 1 2 --> total number of 3 indexes
+
+runtime error if trying to access an element outside the array
+
+A way to declare array : int arr[3] ={1,2,3};
