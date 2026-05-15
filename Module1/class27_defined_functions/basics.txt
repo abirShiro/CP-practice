@@ -1,3 +1,5 @@
 function will look for variables declared locally, but if it can't find such variables then it will look for globally
 The program always runs main function first.
 void type doesn't return anything
+
+* used for pointer(pointer is a variable to store memory address), & for address
